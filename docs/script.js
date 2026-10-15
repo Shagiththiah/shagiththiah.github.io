@@ -20,6 +20,5 @@ show.addEventListener('click', () => {
   show.setAttribute('aria-expanded', String(!more.hidden));
   show.textContent = more.hidden ? 'Show all' : 'Show less';
 });
-document.getElementById('year').textContent = new Date().getFullYear();
 window.addEventListener('hashchange', renderPage);
 renderPage();
