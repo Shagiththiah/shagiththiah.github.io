@@ -2,3 +2,5 @@
 *.tar.gz
 shagiththiah-portfolio/
 .publish-tools/
+.preview-chrome/
+portfolio-preview*.png
