@@ -4,11 +4,9 @@ Personal portfolio with About, Projects, and Blog navigation, a profile portrait
 
 ## GitHub Pages
 
-The requested address is **https://shagiththiahkirupakaran.github.io/**. GitHub requires the owning account or organization to be named `shagiththiahkirupakaran`, and its repository to be named `shagiththiahkirupakaran.github.io`.
+The portfolio is hosted at **https://shagiththiah.github.io/** from the public repository `Shagiththiah/shagiththiah.github.io`.
 
-To keep the existing `Shagiththiah` account and its links, create a free organization named `shagiththiahkirupakaran`, then create a public repository inside it named `shagiththiahkirupakaran.github.io`. Leave the repository empty (do not initialize a README, license, or .gitignore).
-
-Publish this repository's files there. In the destination repository, open **Settings → Pages → Build and deployment**, choose **Deploy from a branch**, then select **main** and **/docs**, and save. GitHub will show the published URL when deployment completes.
+GitHub Pages publishes the **main** branch's **/docs** directory. Push updates to that repository to deploy changes automatically.
 
 Do not add a CNAME for a `github.io` address; that address follows the owner and repository names.
 
